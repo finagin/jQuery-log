@@ -7,7 +7,7 @@
      */
     $.fn.log = function () {
 
-        console.log.apply(console, arguments);
+        console.log.apply(console, arguments.length ? arguments : this);
 
         return this;
 
