@@ -1,8 +1,8 @@
 # jQuery-log
 ##jQuery module
 1. [Install](#install)
-1. [Usage](usage)
-1. [Demo](demo)
+1. [Usage](#usage)
+1. [Demo](#demo)
 
 ### How to use
 #### Install
@@ -42,5 +42,5 @@
 </script>
 ```
 #### Demo
-<p data-height="265" data-theme-id="light" data-slug-hash="aBwGOR" data-default-tab="result" data-user="finagin" data-embed-version="2" data-pen-title="aBwGOR" class="codepen">See the Pen <a href="http://codepen.io/finagin/pen/aBwGOR/">jQuery-log</a> by Igor (<a href="http://codepen.io/finagin">@finagin</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="light" data-slug-hash="woeWNG" data-default-tab="html,result" data-user="finagin" data-embed-version="2" data-pen-title="StickyHeader" class="codepen">See the Pen <a href="https://codepen.io/finagin/pen/woeWNG/">StickyHeader</a> by Igor (<a href="http://codepen.io/finagin">@finagin</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
